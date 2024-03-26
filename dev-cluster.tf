@@ -11,3 +11,4 @@ module "qa_gke_cluster" {
     cluster_location             = "us-central1-b"
     project_id                   = "proven-dryad-417822"
 }
+##
