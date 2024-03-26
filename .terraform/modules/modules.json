@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"dev_gke_cluster","Source":"git::https://github.com/zrasul099/tf-module.git","Dir":".terraform/modules/dev_gke_cluster"},{"Key":"qa_gke_cluster","Source":"git::https://github.com/zrasul099/tf-module.git","Dir":".terraform/modules/qa_gke_cluster"}]}
